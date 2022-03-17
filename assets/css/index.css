@@ -1,0 +1,19 @@
+body {
+  background-color: #242424;
+}
+
+.clock-container {
+  position: absolute;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  bottom: 50%;
+  left: 42%;
+}
+
+.clock-container .data {
+  position: relative;
+  color: aqua;
+  font-size: 50px;
+}
+/*# sourceMappingURL=index.css.map */
